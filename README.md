@@ -1,5 +1,2 @@
 # ffmpeg-command-line
--y (GLobal) = Overwrite output file without asking
--fflags nobuffer = This command will reduce noticeable the delay and will not introduce audio glitches. [not ffmpeg command]
--i = input file init
--c = -codec 
+![Screenshot 2020-10-14 001954](https://user-images.githubusercontent.com/42491711/95917546-1bb3b000-0db3-11eb-9846-735b05bfa26f.png)
